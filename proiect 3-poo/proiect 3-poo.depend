@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546856159 source:c:\users\spinu\desktop\proiect 3-poo\main.cpp
+	<iostream>
+	<string.h>
+	<typeinfo>
+
